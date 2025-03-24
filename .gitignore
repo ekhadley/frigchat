@@ -1,0 +1,8 @@
+*.safetensors
+*.model
+*.arrow
+*.json
+*.pth
+*.pt
+*.pyc
+*.bin
